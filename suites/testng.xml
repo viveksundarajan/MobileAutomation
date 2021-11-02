@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="smoketest">
+    <test name="Setup App">
+        <classes>
+            <class name="ManageTask"/>
+        </classes>
+    </test>
+</suite>
